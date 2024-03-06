@@ -1,0 +1,14 @@
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\bin\Debug\CompleteUAMS.exe.config
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\bin\Debug\CompleteUAMS.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\bin\Debug\CompleteUAMS.pdb
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.csproj.AssemblyReference.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.csproj.CoreCompileInputs.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.pdb
+D:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.csproj.AssemblyReference.cache
+D:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.exe
+D:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\obj\Debug\CompleteUAMS.pdb
+D:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\bin\Debug\CompleteUAMS.exe.config
+D:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\bin\Debug\CompleteUAMS.exe
+D:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK5\CompleteUAMS\CompleteUAMS\bin\Debug\CompleteUAMS.pdb
